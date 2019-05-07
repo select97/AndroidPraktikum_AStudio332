@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Praktikum</string>
+    <string name="cb">cb</string>
+    <string name="speedreader1_name">Speedreader1</string>
+    <string name="loadText">Lade Gesamten Text</string>
+    <string name="clearText">Clear TextView</string>
+    <string name="loadWord">Hole neues Wort</string>
+</resources>
